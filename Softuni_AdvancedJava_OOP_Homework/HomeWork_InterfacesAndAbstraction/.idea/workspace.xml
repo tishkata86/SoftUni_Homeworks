@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116f2a55-3f16-4eb4-b1c1-56c9a8fecc4b" name="Default" comment="do some changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Addable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Removable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Usable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddRemoveCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/MyList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeWork_InterfacesAndAbstraction.iws" />
@@ -23,6 +29,9 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="Cvs2Configuration">
+    <option name="SHOW_OUTPUT" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -133,6 +142,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -141,6 +151,7 @@
       </map>
     </option>
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -342,7 +353,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -877,7 +888,7 @@
       <workItem from="1468751781582" duration="126000" />
       <workItem from="1468754361515" duration="1805000" />
       <workItem from="1468757359419" duration="186000" />
-      <workItem from="1468785333483" duration="1251000" />
+      <workItem from="1468785333483" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="do some changes">
       <created>1468757416852</created>
@@ -891,11 +902,17 @@
       <option name="project" value="LOCAL" />
       <updated>1468785512682</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="do some changes">
+      <created>1468786836966</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1468786836966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38421000" />
+    <option name="totallyTimeSpent" value="38685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
