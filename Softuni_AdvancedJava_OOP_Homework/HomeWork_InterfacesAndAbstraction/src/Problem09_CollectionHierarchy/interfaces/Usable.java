@@ -1,4 +1,6 @@
 package Problem09_CollectionHierarchy.interfaces;
 
-public interface Usable {
+public interface Usable extends Removable{
+
+    long used();
 }
