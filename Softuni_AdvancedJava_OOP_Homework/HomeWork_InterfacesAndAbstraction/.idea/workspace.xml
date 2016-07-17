@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116f2a55-3f16-4eb4-b1c1-56c9a8fecc4b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/GitHub.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/FunctionalProgrammingHomework.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem01_ConsumerPrint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem02_KnightsOfHonor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem03_CustomMinFunction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem04_FindEvenOrOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem05_AppliedArithmetics.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem06_ReverseAndExclud.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem07_PredicateForNames.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem08_FindSmallestElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem09_CustomComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem10_ListOfPredicates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem11_PredicateParty.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem12_ThePartyReservationFilterList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/out/production/FunctionalProgrammingHomework/Problem13_InfernoIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem01_ConsumerPrint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem02_KnightsOfHonor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem03_CustomMinFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem04_FindEvenOrOdd.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem05_AppliedArithmetics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem06_ReverseAndExclud.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem07_PredicateForNames.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem08_FindSmallestElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem09_CustomComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem10_ListOfPredicates.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem11_PredicateParty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem12_ThePartyReservationFilterList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Softuni_Advanced_Java_Homework/FunctionalProgrammingHomework/src/Problem13_InfernoIII.java" afterPath="" />
+    <list default="true" id="116f2a55-3f16-4eb4-b1c1-56c9a8fecc4b" name="Default" comment="do some changes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeWork_InterfacesAndAbstraction.iws" />
@@ -72,13 +29,106 @@
     <favorites_list name="HomeWork_InterfacesAndAbstraction" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddRemoveCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddRemoveCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Addable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Addable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Removable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Removable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Usable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.058754407">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -100,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problem01_DefineAnInterfacePerson/Person.java" />
-        <option value="$PROJECT_DIR$/src/Problem01_DefineAnInterfacePerson/Citizen.java" />
-        <option value="$PROJECT_DIR$/src/Problem01_DefineAnInterfacePerson/Main.java" />
-        <option value="$PROJECT_DIR$/src/Problem01_02_DefineAnInterfacePerson/Birthable.java" />
         <option value="$PROJECT_DIR$/src/Problem01_02_DefineAnInterfacePerson/Citizen.java" />
         <option value="$PROJECT_DIR$/src/Problem01_02_DefineAnInterfacePerson/Identifiable.java" />
         <option value="$PROJECT_DIR$/src/Problem01_02_DefineAnInterfacePerson/Main.java" />
@@ -140,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Interfaces/EngineerInterface.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Soldier.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Interfaces/LeutenantGeneralInterface.java" />
-        <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldiersModels/Part.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldiersModels/Mission.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldiersModels/Engineer.java" />
@@ -151,6 +196,11 @@
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Interfaces/SpyInterface.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Engine.java" />
         <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Spy.java" />
+        <option value="$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Addable.java" />
+        <option value="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Removable.java" />
+        <option value="$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Usable.java" />
       </list>
     </option>
   </component>
@@ -172,7 +222,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -190,8 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,6 +273,68 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem09_CollectionHierarchy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem09_CollectionHierarchy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem09_CollectionHierarchy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork_InterfacesAndAbstraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -235,7 +347,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -764,11 +876,26 @@
       <workItem from="1468750344883" duration="290000" />
       <workItem from="1468751781582" duration="126000" />
       <workItem from="1468754361515" duration="1805000" />
+      <workItem from="1468757359419" duration="186000" />
+      <workItem from="1468785333483" duration="1251000" />
     </task>
+    <task id="LOCAL-00001" summary="do some changes">
+      <created>1468757416852</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468757416852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="do some changes">
+      <created>1468785512682</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1468785512682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36984000" />
+    <option name="totallyTimeSpent" value="38421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -776,6 +903,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -789,7 +917,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -810,6 +937,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="do some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="do some changes" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="17" />
@@ -821,55 +952,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Private.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Spy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/LeutenantGeneral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldiersModels/Engineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/PrivateModels/SpecialSoldiersModels/Mission.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1136,13 +1218,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Soldier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1164,17 +1239,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Models/Spy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53571427">
           <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem08_MilitaryElite/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/AddRemoveCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/models/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Addable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Removable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem09_CollectionHierarchy/interfaces/Usable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058754407">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
