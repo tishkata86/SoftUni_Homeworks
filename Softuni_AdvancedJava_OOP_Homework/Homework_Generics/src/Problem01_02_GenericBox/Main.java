@@ -1,4 +1,4 @@
-package Problem01_GenericBox;
+package Problem01_02_GenericBox;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,7 +10,16 @@ public class Main {
 
         int lines = Integer.parseInt(sc.readLine());
         for (int i = 0; i < lines; i++) {
-            Box box = new Box(sc.readLine());
+            String string = sc.readLine();
+            try {
+                int integer = Integer.valueOf(string);
+                Box box = new Box(integer);
+                System.out.println(box);
+                continue;
+
+            }   catch (Exception e){
+            }
+            Box box = new Box(string);
             System.out.println(box);
         }
     }

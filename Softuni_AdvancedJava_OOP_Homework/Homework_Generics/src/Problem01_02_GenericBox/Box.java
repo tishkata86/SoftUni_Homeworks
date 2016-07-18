@@ -1,4 +1,4 @@
-package Problem01_GenericBox;
+package Problem01_02_GenericBox;
 
 public class Box<T> {
     private T value;
