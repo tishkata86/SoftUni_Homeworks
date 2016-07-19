@@ -1,4 +1,4 @@
-package Problem03_04_GenericSwapMethodStrings;
+package Problem03_04_GenericSwapMethodStringsIntegers;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,10 +17,10 @@ public class Main {
         int lines = Integer.parseInt(sc.readLine());
 
         // String swap Problem_03
-//        data = StringSwap(lines);
+        data = StringSwap(lines);
 
         // Integer swap Problem_04
-        data = IntegerSwap(lines);
+//        data = IntegerSwap(lines);
 
         int[] indexes = Arrays.stream(sc.readLine().split("\\s+")).mapToInt(Integer::parseInt).toArray();
         Box temp = data.get(indexes[0]);

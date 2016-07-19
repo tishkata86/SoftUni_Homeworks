@@ -1,4 +1,4 @@
-package Problem03_04_GenericSwapMethodStrings;
+package Problem03_04_GenericSwapMethodStringsIntegers;
 
 public class Box<T> {
     private T value;
