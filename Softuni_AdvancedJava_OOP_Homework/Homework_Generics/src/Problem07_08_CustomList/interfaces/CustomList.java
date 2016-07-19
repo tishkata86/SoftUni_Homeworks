@@ -1,4 +1,4 @@
-package Problem07_CustomList.interfaces;
+package Problem07_08_CustomList.interfaces;
 
 import java.util.List;
 
@@ -17,4 +17,8 @@ public interface CustomList<T extends Comparable<T>>{
     T getMax();
 
     T getMin();
+
+    int getSize();
+
+    T get(int index);
 }

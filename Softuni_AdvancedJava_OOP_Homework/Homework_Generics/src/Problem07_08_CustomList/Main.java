@@ -1,6 +1,7 @@
-package Problem07_CustomList;
+package Problem07_08_CustomList;
 
-import Problem07_CustomList.interfaces.CustomList;
+import Problem07_08_CustomList.interfaces.CustomList;
+import Problem07_08_CustomList.interfaces.Sorter;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,6 +11,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         CustomList<String> elements = new CustomListImpl<>();
+        Sorter<String> sorter = new SorterImpl<>();
 
         String line;
         while (!"END".equals(line = sc.readLine())){
@@ -39,6 +41,10 @@ public class Main {
                     break;
                 case "Print":
                     System.out.print(elements);
+                    break;
+                case "Sort":
+                    sorter.sort(elements);
+                    break;
             }
         }
     }

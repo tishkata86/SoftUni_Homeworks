@@ -1,6 +1,6 @@
-package Problem07_CustomList;
+package Problem07_08_CustomList;
 
-import Problem07_CustomList.interfaces.CustomList;
+import Problem07_08_CustomList.interfaces.CustomList;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -46,6 +46,16 @@ public class CustomListImpl<T extends Comparable<T>> implements CustomList<T>{
     @Override
     public T getMin() {
         return this.elements.stream().min(Comparable::compareTo).get();
+    }
+
+    @Override
+    public int getSize() {
+        return this.elements.size();
+    }
+
+    @Override
+    public T get(int index) {
+        return this.elements.get(index);
     }
 
     @Override
