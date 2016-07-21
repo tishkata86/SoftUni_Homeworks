@@ -1,7 +1,7 @@
-package Problem07_08_CustomList;
+package Problem07_08_09_CustomList_Sorter_Iterator;
 
-import Problem07_08_CustomList.interfaces.CustomList;
-import Problem07_08_CustomList.interfaces.Sorter;
+import Problem07_08_09_CustomList_Sorter_Iterator.interfaces.CustomList;
+import Problem07_08_09_CustomList_Sorter_Iterator.interfaces.Sorter;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -40,7 +40,9 @@ public class Main {
                     System.out.println(elements.getMin());
                     break;
                 case "Print":
-                    System.out.print(elements);
+                    for (String element : elements) {
+                        System.out.println(element);
+                    }
                     break;
                 case "Sort":
                     sorter.sort(elements);

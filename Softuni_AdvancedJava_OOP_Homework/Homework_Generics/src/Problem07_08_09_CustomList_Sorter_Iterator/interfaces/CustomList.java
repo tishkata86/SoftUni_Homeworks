@@ -1,8 +1,6 @@
-package Problem07_08_CustomList.interfaces;
+package Problem07_08_09_CustomList_Sorter_Iterator.interfaces;
 
-import java.util.List;
-
-public interface CustomList<T extends Comparable<T>>{
+public interface CustomList<T extends Comparable<T>> extends Iterable<T>{
 
     void add(T element);
 

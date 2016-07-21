@@ -1,9 +1,7 @@
-package Problem07_08_CustomList;
+package Problem07_08_09_CustomList_Sorter_Iterator;
 
-import Problem07_08_CustomList.interfaces.CustomList;
-import Problem07_08_CustomList.interfaces.Sorter;
-
-import java.util.List;
+import Problem07_08_09_CustomList_Sorter_Iterator.interfaces.CustomList;
+import Problem07_08_09_CustomList_Sorter_Iterator.interfaces.Sorter;
 
 public class SorterImpl<T extends Comparable<T>> implements Sorter<T> {
 

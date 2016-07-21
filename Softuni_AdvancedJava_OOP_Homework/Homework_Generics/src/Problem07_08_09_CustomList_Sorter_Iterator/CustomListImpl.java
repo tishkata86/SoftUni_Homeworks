@@ -1,12 +1,13 @@
-package Problem07_08_CustomList;
+package Problem07_08_09_CustomList_Sorter_Iterator;
 
-import Problem07_08_CustomList.interfaces.CustomList;
+import Problem07_08_09_CustomList_Sorter_Iterator.interfaces.CustomList;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
 
-public class CustomListImpl<T extends Comparable<T>> implements CustomList<T>{
+public class CustomListImpl<T extends Comparable<T>> implements CustomList<T> {
     private List<T> elements;
 
     public CustomListImpl() {
@@ -35,7 +36,7 @@ public class CustomListImpl<T extends Comparable<T>> implements CustomList<T>{
 
     @Override
     public int countGreaterThan(T element) {
-        return (int)this.elements.stream().filter(value -> value.compareTo(element) > 0).count();
+        return (int) this.elements.stream().filter(value -> value.compareTo(element) > 0).count();
     }
 
     @Override
@@ -59,11 +60,23 @@ public class CustomListImpl<T extends Comparable<T>> implements CustomList<T>{
     }
 
     @Override
-    public String toString() {
-        StringBuilder sb = new StringBuilder();
-        for (T element : elements) {
-            sb.append(element).append(System.lineSeparator());
-        }
-        return sb.toString();
+    public Iterator<T> iterator() {
+        Iterator<T> iterator = new Iterator<T>() {
+            int index = 0;
+            @Override
+            public boolean hasNext() {
+                if (index < elements.size()){
+                    return true;
+                }
+                return false;
+            }
+
+            @Override
+            public T next() {
+                return elements.get(index++);
+            }
+        };
+
+        return iterator;
     }
 }

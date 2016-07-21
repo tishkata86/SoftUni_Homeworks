@@ -1,6 +1,4 @@
-package Problem07_08_CustomList.interfaces;
-
-import java.util.List;
+package Problem07_08_09_CustomList_Sorter_Iterator.interfaces;
 
 public interface Sorter<T extends Comparable<T>> {
 
