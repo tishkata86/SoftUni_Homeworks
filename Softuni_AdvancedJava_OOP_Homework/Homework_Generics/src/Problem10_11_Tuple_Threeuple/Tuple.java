@@ -1,4 +1,4 @@
-package Problem10_Tuple;
+package Problem10_11_Tuple_Threeuple;
 
 public class Tuple<T> {
 
