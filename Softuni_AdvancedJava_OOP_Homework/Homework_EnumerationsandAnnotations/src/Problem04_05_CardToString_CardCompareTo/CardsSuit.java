@@ -1,4 +1,4 @@
-package Problem04_CardToString;
+package Problem04_05_CardToString_CardCompareTo;
 
 public enum CardsSuit {
     CLUBS(0),
