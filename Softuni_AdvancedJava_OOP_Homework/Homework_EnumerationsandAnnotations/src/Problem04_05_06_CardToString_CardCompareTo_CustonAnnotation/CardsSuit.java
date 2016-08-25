@@ -1,4 +1,6 @@
-package Problem04_05_CardToString_CardCompareTo;
+package Problem04_05_06_CardToString_CardCompareTo_CustonAnnotation;
+
+@EnumInfo(category = "Suit", description = "Provides suit constants for a Card class.")
 
 public enum CardsSuit {
     CLUBS(0),

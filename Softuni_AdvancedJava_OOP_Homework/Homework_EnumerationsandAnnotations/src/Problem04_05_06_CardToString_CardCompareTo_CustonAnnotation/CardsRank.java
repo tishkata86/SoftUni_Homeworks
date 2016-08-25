@@ -1,4 +1,6 @@
-package Problem04_05_CardToString_CardCompareTo;
+package Problem04_05_06_CardToString_CardCompareTo_CustonAnnotation;
+
+@EnumInfo(category = "Rank", description = "Provides rank constants for a Card class.")
 
 public enum CardsRank {
     ACE(14),
@@ -21,8 +23,9 @@ public enum CardsRank {
         this.power = num;
     }
 
-    public int getCardPower(){
+    public int getPower(){
         return this.power;
     }
+
 
 }

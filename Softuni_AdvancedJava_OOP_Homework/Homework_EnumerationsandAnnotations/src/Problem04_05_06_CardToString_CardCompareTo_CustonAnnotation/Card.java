@@ -1,4 +1,4 @@
-package Problem04_05_CardToString_CardCompareTo;
+package Problem04_05_06_CardToString_CardCompareTo_CustonAnnotation;
 
 public class Card implements Comparable<Card>{
 
@@ -11,7 +11,7 @@ public class Card implements Comparable<Card>{
     }
 
     public int getPower(){
-        return this.cardsRank.getCardPower() + this.cardsSuit.getPower();
+        return this.cardsRank.getPower() + this.cardsSuit.getPower();
     }
 
     @Override
