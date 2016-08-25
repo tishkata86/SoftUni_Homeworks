@@ -1,11 +1,8 @@
 package Problem04_05_06_CardToString_CardCompareTo_CustonAnnotation;
 
-import Problem02_CardRank.CardRank;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.annotation.Annotation;
 
 public class Main {
     public static void main(String[] args) throws IOException {
