@@ -20,6 +20,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private Button button02;
     private Button button03;
     private TextView result;
+    private String buttonName;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,30 +54,41 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         if (v.getId() == R.id.button01){
             if (result.getText().equals(String.valueOf(R.id.button01))){
-                button01.setText(String.valueOf(R.id.button01));
+                if (!button01.getText().equals("Button 1")){
+                    button01.setText("Button 1");
+                } else {
+                    button01.setText(String.valueOf(R.id.button01));
+                }
             }
             result.setText(String.valueOf(R.id.button01));
+            buttonName = "Button 1";
         }
 
         if (v.getId() == R.id.button02){
-            if (result.getText().equals(String.valueOf(R.id.button02))){
+            if (!button02.getText().equals("Button 2")){
+                button02.setText("Button 2");
+            } else {
                 button02.setText(String.valueOf(R.id.button02));
             }
             result.setText(String.valueOf(R.id.button02));
+            buttonName = "Button 2";
         }
 
         if (v.getId() == R.id.button03){
-            if (result.getText().equals(String.valueOf(R.id.button03))){
+            if (!button03.getText().equals("Button 3")){
+                button03.setText("Button 3");
+            } else {
                 button03.setText(String.valueOf(R.id.button03));
             }
             result.setText(String.valueOf(R.id.button03));
+            buttonName = "Button 3";
         }
 
         if (v.getId() == R.id.resultText){
             if (!result.getText().equals("Result")){
                 Intent intent = new Intent(MainActivity.this, SecondActivity.class);
                 intent.putExtra("COMPONENT_ID", result.getText());
-                intent.putExtra("COMPONENT_NAME", TextView.class.getSimpleName());
+                intent.putExtra("COMPONENT_NAME", buttonName);
                 startActivity(intent);
             }
         }
