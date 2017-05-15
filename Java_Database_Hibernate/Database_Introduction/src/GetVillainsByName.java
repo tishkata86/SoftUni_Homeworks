@@ -9,7 +9,7 @@ public class GetVillainsByName {
                         InitializeDatabase.USER,
                         InitializeDatabase.PASS);
                 Statement statement = connection.createStatement();
-                ){
+        ){
 
             String addMoreData = "INSERT INTO villains_minions (minion_id, villain_id)\n" +
                     "  VALUE (3, 1),\n" +
@@ -20,10 +20,11 @@ public class GetVillainsByName {
             statement.execute(addMoreData);
 
             String selectVillainByNumMinions =
-                    "SELECT v.name, COUNT(vm.minion_id) AS minions_count FROM villains AS v" +
-                    "  INNER JOIN villains_minions as vm " +
-                    "  ON v.id = vm.villain_id" +
-                    "    GROUP BY vm.villain_id";
+                    "SELECT v.name, COUNT(vm.minion_id) AS minions_count FROM villains AS v\n" +
+                            "  INNER JOIN villains_minions as vm\n" +
+                            "  ON v.id = vm.villain_id\n" +
+                            "    GROUP BY vm.villain_id\n" +
+                            "    HAVING minions_count >= 3";
             ResultSet resultSet = statement.executeQuery(selectVillainByNumMinions);
             while (resultSet.next()){
                 String name = resultSet.getString(1);
