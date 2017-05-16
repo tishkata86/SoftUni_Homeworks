@@ -36,7 +36,6 @@
     <column id="16" parent="9" name="town_id">
       <Position>4</Position>
       <DataType>int(11)|0</DataType>
-      <NotNull>1</NotNull>
     </column>
     <index id="17" parent="9" name="town_id">
       <ColNames>town_id</ColNames>
@@ -66,7 +65,6 @@
     <column id="22" parent="10" name="country">
       <Position>3</Position>
       <DataType>varchar(50)|0</DataType>
-      <NotNull>1</NotNull>
     </column>
     <key id="23" parent="10" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
