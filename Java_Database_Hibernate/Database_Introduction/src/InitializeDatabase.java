@@ -21,7 +21,7 @@ public class InitializeDatabase {
             String createTowns = "CREATE TABLE IF NOT EXISTS towns(\n" +
                     "  id INT PRIMARY KEY AUTO_INCREMENT,\n" +
                     "  name VARCHAR(50) NOT NULL,\n" +
-                    "  country VARCHAR(50) NOT NULL\n" +
+                    "  country VARCHAR(50)\n" +
                     ");";
 
             String createMinions = "CREATE TABLE IF NOT EXISTS minions(\n" +
