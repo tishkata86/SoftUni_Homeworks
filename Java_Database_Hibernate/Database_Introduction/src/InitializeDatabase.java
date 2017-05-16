@@ -28,7 +28,7 @@ public class InitializeDatabase {
                     "  id INT PRIMARY KEY AUTO_INCREMENT,\n" +
                     "  name VARCHAR(50) NOT NULL,\n" +
                     "  age INT NOT NULL,\n" +
-                    "  town_id INT NOT NULL,\n" +
+                    "  town_id INT,\n" +
                     "  FOREIGN KEY (town_id) REFERENCES towns(id)\n" +
                     ");";
 
