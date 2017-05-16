@@ -14,7 +14,7 @@ public class InitializeDatabase {
         try (
                 Connection connection = DriverManager.getConnection(URL, USER, PASS);
                 Statement statement = connection.createStatement();
-                ){
+        ) {
 
             String useDatabase = "USE minions_db";
             statement.execute(useDatabase);
@@ -27,6 +27,7 @@ public class InitializeDatabase {
             String createMinions = "CREATE TABLE IF NOT EXISTS minions(\n" +
                     "  id INT PRIMARY KEY AUTO_INCREMENT,\n" +
                     "  name VARCHAR(50) NOT NULL,\n" +
+                    "  age INT NOT NULL,\n" +
                     "  town_id INT NOT NULL,\n" +
                     "  FOREIGN KEY (town_id) REFERENCES towns(id)\n" +
                     ");";
@@ -57,12 +58,12 @@ public class InitializeDatabase {
                     "  ('Paris', 'France'),\n" +
                     "  ('Berlin', 'Germany');\n";
 
-            String fillMinions = "INSERT INTO minions(name, town_id)\n" +
-                    "  VALUE ('Sasho', 1),\n" +
-                    "  ('Ivan', 2),\n" +
-                    "  ('Atanaska', 3),\n" +
-                    "  ('Georgi', 4),\n" +
-                    "  ('Pesho', 5);\n";
+            String fillMinions = "INSERT INTO minions(name, age, town_id)\n" +
+                    "  VALUE ('Sasho', 21, 1),\n" +
+                    "  ('Ivan', 17, 2),\n" +
+                    "  ('Atanaska', 31, 3),\n" +
+                    "  ('Georgi', 24, 4),\n" +
+                    "  ('Pesho', 51, 5);\n";
 
             String fillVillains = "INSERT INTO villains(name, evilness)\n" +
                     "  VALUE('Petkan', 'good'),\n" +
