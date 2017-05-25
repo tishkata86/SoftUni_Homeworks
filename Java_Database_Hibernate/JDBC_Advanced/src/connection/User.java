@@ -10,10 +10,10 @@ import java.util.Date;
 public class User {
 
     @Id
-    private int id;
+    private long id;
 
-    @Column(name = "password")
-    private String password;
+    @Column(name = "name")
+    private String name;
 
     @Column(name = "age")
     private int age;
@@ -21,42 +21,44 @@ public class User {
     @Column(name = "registration_date")
     private Date registrationDate;
 
-    public User(String password, int age, Date registrationDate) {
-        this.setId(id);
-        this.setPassword(password);
+    public User(){
+    }
+
+    public User(String name, int age, Date registrationDate) {
+        this.setName(name);
         this.setAge(age);
         this.setRegistrationDate(registrationDate);
     }
 
-    public int getId() {
-        return id;
+    public long getId() {
+        return this.id;
     }
 
-    private void setId(int id) {
+    public void setId(long id){
         this.id = id;
     }
 
-    public String getPassword() {
-        return password;
+    public String getName() {
+        return this.name;
     }
 
-    private void setPassword(String password) {
-        this.password = password;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getAge() {
-        return age;
+        return this.age;
     }
 
-    private void setAge(int age) {
+    public void setAge(int age) {
         this.age = age;
     }
 
     public Date getRegistrationDate() {
-        return registrationDate;
+        return this.registrationDate;
     }
 
-    private void setRegistrationDate(Date registrationDate) {
+    public void setRegistrationDate(Date registrationDate) {
         this.registrationDate = registrationDate;
     }
 }
