@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="@localhost">
+<dataSource name="soft_uni/Hibernate">
   <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
     <root id="1"/>
-    <schema id="2" parent="1" name="information_schema">
+    <schema id="2" parent="1" name="soft_uni">
       <Current>1</Current>
-    </schema>
-    <schema id="3" parent="1" name="minions_db"/>
-    <schema id="4" parent="1" name="mysql"/>
-    <schema id="5" parent="1" name="performance_schema"/>
-    <schema id="6" parent="1" name="sakila"/>
-    <schema id="7" parent="1" name="school"/>
-    <schema id="8" parent="1" name="sys"/>
-    <schema id="9" parent="1" name="world"/>
-    <schema id="10" parent="1" name="soft_uni">
       <Visible>1</Visible>
     </schema>
-    <table id="11" parent="10" name="addresses"/>
-    <table id="12" parent="10" name="departments"/>
-    <table id="13" parent="10" name="employees"/>
-    <table id="14" parent="10" name="employees_projects"/>
-    <table id="15" parent="10" name="projects"/>
-    <table id="16" parent="10" name="towns"/>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="minions_db"/>
+    <schema id="5" parent="1" name="mysql"/>
+    <schema id="6" parent="1" name="performance_schema"/>
+    <schema id="7" parent="1" name="sakila"/>
+    <schema id="8" parent="1" name="school"/>
+    <schema id="9" parent="1" name="sys"/>
+    <schema id="10" parent="1" name="world"/>
+    <table id="11" parent="2" name="addresses"/>
+    <table id="12" parent="2" name="departments"/>
+    <table id="13" parent="2" name="employees"/>
+    <table id="14" parent="2" name="employees_projects"/>
+    <table id="15" parent="2" name="projects"/>
+    <table id="16" parent="2" name="towns"/>
     <column id="17" parent="11" name="address_id">
       <Position>1</Position>
       <DataType>int(10)|0</DataType>

@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4163e0b-7840-44bd-a217-06ef501dc3c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_6_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connection/DemoORM.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/connection/Demo.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/c5879385-e418-4f9e-bad7-247a7d044f7e.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/c5879385-e418-4f9e-bad7-247a7d044f7e.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JDBC_Advanced.iml" afterPath="$PROJECT_DIR$/JDBC_Advanced.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/connection/Connector.java" afterPath="$PROJECT_DIR$/src/connection/Connector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/connection/EntityManager.java" afterPath="$PROJECT_DIR$/src/connection/EntityManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/connection/User.java" afterPath="$PROJECT_DIR$/src/connection/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/persistance/Column.java" afterPath="$PROJECT_DIR$/src/persistance/Column.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/persistance/Entity.java" afterPath="$PROJECT_DIR$/src/persistance/Entity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/persistance/Id.java" afterPath="$PROJECT_DIR$/src/persistance/Id.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,18 +41,25 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" value="school" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="users" />
+        <option name="myItemId" value="soft_uni" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DemoORM.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/connection/DemoORM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,13 +89,13 @@
         <option value="$PROJECT_DIR$/src/persistance/Id.java" />
         <option value="$PROJECT_DIR$/src/persistance/Column.java" />
         <option value="$PROJECT_DIR$/src/connection/Connector.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5879385-e418-4f9e-bad7-247a7d044f7e/console.sql" />
         <option value="$PROJECT_DIR$/src/connection/Mapper.java" />
         <option value="$PROJECT_DIR$/src/connection/Demo.java" />
         <option value="$PROJECT_DIR$/src/connection/Demoorm.java" />
         <option value="$PROJECT_DIR$/src/connection/User.java" />
         <option value="$PROJECT_DIR$/src/connection/EntityManager.java" />
         <option value="$PROJECT_DIR$/src/connection/DemoORM.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5879385-e418-4f9e-bad7-247a7d044f7e/console.sql" />
       </list>
     </option>
   </component>
@@ -130,9 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,6 +177,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -651,6 +648,8 @@
       <workItem from="1495530705151" duration="4270000" />
       <workItem from="1495589904984" duration="5047000" />
       <workItem from="1495664825206" duration="6672000" />
+      <workItem from="1495671713515" duration="47000" />
+      <workItem from="1496052016473" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="add new directory">
       <created>1494974091548</created>
@@ -684,7 +683,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39378000" />
+    <option name="totallyTimeSpent" value="39587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -692,7 +691,6 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -703,9 +701,10 @@
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119936034" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13859275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -716,6 +715,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="1079" y="744" width="629" height="152" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -751,6 +751,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/connection/DemoORM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/connection/EntityManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -768,6 +776,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -783,9 +792,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -806,6 +813,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -834,6 +842,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -849,10 +858,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -873,6 +879,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -888,10 +895,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -932,6 +936,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -947,9 +952,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -957,10 +960,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -988,10 +988,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,10 +1006,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,10 +1024,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,10 +1042,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="426" column="0" lean-forward="false" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1140,26 +1127,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/connection/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connection/Mapper.java" />
     <entry file="file://$PROJECT_DIR$/src/connection/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="689">
           <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5879385-e418-4f9e-bad7-247a7d044f7e/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1173,23 +1145,12 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connection/DemoORM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/connection/EntityManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="950">
           <caret line="153" column="32" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="32" />
           <folding>
             <element signature="method#persist#0;class#EntityManager#0" expanded="false" />
@@ -1204,6 +1165,7 @@
             <element signature="method#getId#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doCreate#0;class#EntityManager#0" expanded="false" />
             <element signature="method#getDatabaseType#0;class#EntityManager#0" expanded="false" />
+            <element signature="method#doInsert#0;class#EntityManager#0" expanded="false" />
             <element signature="method#doUpdate#0;class#EntityManager#0" expanded="false" />
             <marker date="1495670989508" expanded="true" signature="1399:1440" ph="SELECT * FRO... missingValue" />
             <marker date="1495670989508" expanded="true" signature="2277:2318" ph="SELECT * FRO... missingValue" />
@@ -1212,6 +1174,22 @@
             <marker date="1495670989508" expanded="true" signature="6201:6232" ph="INSERT INTO missingValue... " />
             <marker date="1495670989508" expanded="true" signature="7444:7472" ph="UPDATE missi... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5879385-e418-4f9e-bad7-247a7d044f7e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41825">
+          <caret line="1673" column="63" lean-forward="false" selection-start-line="1673" selection-start-column="63" selection-end-line="1673" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connection/DemoORM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
